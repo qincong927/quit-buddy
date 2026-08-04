@@ -1,0 +1,20 @@
+{
+  "name": "小黑的戒烟日记",
+  "short_name": "戒烟日记",
+  "description": "记录每一支烟，追踪戒烟习惯养成",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4faf5",
+  "theme_color": "#2d6a4f",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
